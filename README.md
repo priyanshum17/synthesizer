@@ -4,8 +4,6 @@
 [![Pypi link](https://img.shields.io/pypi/v/synthesizer.svg)](https://pypi.python.org/pypi/synthesizer)
 
 
-Information
-
 ## Table of Content:
 
 - [Intallation](#installation)
