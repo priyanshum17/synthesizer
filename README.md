@@ -2,9 +2,6 @@
 
 
 [![Pypi link](https://img.shields.io/pypi/v/synthesizer.svg)](https://pypi.python.org/pypi/synthesizer)
-[![Travis job](https://img.shields.io/travis/priyanshum17/synthesizer.svg)](https://travis-ci.org/priyanshum17/synthesizer)
-
-
 
 
 Information
